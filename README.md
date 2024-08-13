@@ -14,7 +14,7 @@ The type of commands to use this feature is as follow:
 ```
 ts-node main.ts 1 <pair_address>
 ```
-
+ 
 For example, to get the prices in `TRUNK/BUSD` pair of pancakeswap v2, you should type following commands:
 ```
 ts-node main.ts 1 0xf15A72B15fC4CAeD6FaDB1ba7347f6CCD1E0Aede
